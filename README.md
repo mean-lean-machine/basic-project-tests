@@ -3,5 +3,5 @@ first time setup on my own
 # new test driven development
 learning tdd to improve code quality
 
-I love :coffee: :fishing:
+I love :coffee: :fish:
 
