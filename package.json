@@ -1,0 +1,27 @@
+{
+  "name": "lean_tdd",
+  "version": "1.0.0",
+  "description": "lena's first tdd project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "wd": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lexicon45/basic-project-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lexicon45/basic-project-tests/issues"
+  },
+  "homepage": "https://github.com/Lexicon45/basic-project-tests#readme"
+}
